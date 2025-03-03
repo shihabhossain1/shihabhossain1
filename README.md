@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Shihab Hossain
 #### python web developer
-![python web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Python & Django developer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQEXcq7tKiLysQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738772499167?e=1746662400&v=beta&t=033YmLulAMG-nWl7fvHf3C6jMCnb3h5DuVpFWcp4JYQ))
 
 We are looking for an experienced Back-end developer to join our IT team. You will be responsible for the server side of our web applications. If you have excellent programming skills and a passion for developing applications or improving existing ones, we would like to meet you. As a Back-end developer, you’ll work closely with our engineers to ensure system consistency and improve user experience. Ultimately, you should be able to develop and maintain functional and stable web applications to meet our company’s needs.
 
 Skills: python/Flask/django/RDBMS/Server/VUE JS / REACT / HTML / CSS/ JS
 
 - 🔭 I’m currently working on mohuls soft ltd 
-- 🌱 I’m currently learning javaScript 
+- 🌱 I’m currently learning Advance Django And Django Rest Framework
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web development  
 
