@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shihab Hossain
 #### Python & Django developer
-![Python & Django developer](https://media.licdn.com/dms/image/v2/D4D16AQEXcq7tKiLysQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738772499167?e=1756339200&v=beta&t=GOMezaqNYJERjczmMfn50UecnaS5UHjoOej7vrxEurI)
+![Python & Django developer](https://media.licdn.com/dms/image/v2/D4D16AQEXcq7tKiLysQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1738772499167?e=1761782400&v=beta&t=9KzOPFteNDsKj-AtNr9Y8Ic0fpyfLi8X-iz7stYMojM)
 
 We are looking for an experienced Back-end developer to join our IT team. You will be responsible for the server side of our web applications. If you have excellent programming skills and a passion for developing applications or improving existing ones, we would like to meet you. As a Back-end developer, you’ll work closely with our engineers to ensure system consistency and improve user experience. Ultimately, you should be able to develop and maintain functional and stable web applications to meet our company’s needs.
 
