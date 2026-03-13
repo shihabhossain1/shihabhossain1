@@ -49,7 +49,6 @@ With over **4 years of professional development experience**, I have worked on b
 
 Python • Django • DRF • React • Next.js • Vue • Docker • Nginx • AWS • Git • Linux • PostgreSQL • MySQL
 
----
 
 ## 🌐 Portfolio & CV
 
