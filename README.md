@@ -1,17 +1,66 @@
-### Hi there 👋, I'm Shihab Hossain
-#### Python & Django developer
-![Python & Django developer](https://media.licdn.com/dms/image/v2/D4D16AQEXcq7tKiLysQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1738772499167?e=1761782400&v=beta&t=9KzOPFteNDsKj-AtNr9Y8Ic0fpyfLi8X-iz7stYMojM)
+# Hi, I'm Shihab Hossain 👋
 
-We are looking for an experienced Back-end developer to join our IT team. You will be responsible for the server side of our web applications. If you have excellent programming skills and a passion for developing applications or improving existing ones, we would like to meet you. As a Back-end developer, you’ll work closely with our engineers to ensure system consistency and improve user experience. Ultimately, you should be able to develop and maintain functional and stable web applications to meet our company’s needs.
+🚀 **Full Stack Web Developer** with 4+ years of experience building scalable web applications and APIs. I specialize in modern backend and frontend technologies, focusing on clean architecture, performance, and maintainable code.
 
-Skills: python/Flask/django/RDBMS/Server/VUE JS / REACT / HTML / CSS/ JS
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on mohuls soft ltd 
-- 🌱 I’m currently learning Advance Django And Django Rest Framework
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about web development
-- 📄 Know about my experiences [https://shihabhossain1.github.io/](https://shihabhossain1.github.io/)
-- 👨‍💻 All of my projects are available at [https://shihabhossain1.github.io/me/](https://shihabhossain1.github.io/me/)
+### Backend
+
+* Python
+* Django
+* Django REST Framework
+* RESTful API Development
+
+### Frontend
+
+* React.js
+* Next.js
+* Vue.js
+* JavaScript (ES6+)
+* HTML5 & CSS3
+
+### DevOps & Infrastructure
+
+* Docker
+* Nginx
+* AWS
+* Linux Server Management
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* SQLite
+
+## ⚡ What I Do
+
+* Build scalable backend systems using **Python & Django**
+* Develop **RESTful APIs** for modern applications
+* Create responsive and dynamic user interfaces with **React, Next.js, and Vue**
+* Containerize applications using **Docker**
+* Deploy and manage applications using **AWS & Nginx**
+* Design clean and optimized **database structures**
+
+## 📈 Experience
+
+With over **4 years of professional development experience**, I have worked on building complete web platforms including backend APIs, frontend applications, deployment pipelines, and infrastructure setup.
+
+## 🛠 Tools & Technologies
+
+Python • Django • DRF • React • Next.js • Vue • Docker • Nginx • AWS • Git • Linux • PostgreSQL • MySQL
+
+---
+
+## 🌐 Portfolio & CV
+
+* 📄 **CV:** https://shihabhossain1.github.io/
+* 🌍 **Portfolio:** https://shihabhossain1.github.io/me/
+
+---
+
+⭐ *Always learning, always building.*
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
