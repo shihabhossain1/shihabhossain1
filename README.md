@@ -4,33 +4,17 @@
 
 ## 💻 Tech Stack
 
-### Backend
+**Backend**
+Python • Django • Django REST Framework • RESTful API Development
 
-* Python
-* Django
-* Django REST Framework
-* RESTful API Development
+**Frontend**
+React.js • Next.js • Vue.js • JavaScript (ES6+) • HTML5 • CSS3
 
-### Frontend
+**DevOps & Infrastructure**
+Docker • Nginx • AWS • Linux
 
-* React.js
-* Next.js
-* Vue.js
-* JavaScript (ES6+)
-* HTML5 & CSS3
-
-### DevOps & Infrastructure
-
-* Docker
-* Nginx
-* AWS
-* Linux Server Management
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* SQLite
+**Databases**
+PostgreSQL • MySQL • SQLite
 
 ## ⚡ What I Do
 
